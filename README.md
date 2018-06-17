@@ -1,7 +1,7 @@
-#take_break---------------------------------------------------------------------------
+# take_break---------------------------------------------------------------------------
 ___________________________________________________________________________________________-
 
-# Take a break program
+## ake a break program
 if you are spend very much time in Desktop so this proggram will hepl you!
 
 1. set time in minute
