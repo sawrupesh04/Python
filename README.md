@@ -3,11 +3,11 @@ ________________________________________________________________________________
 
 ### **Steps:**
 if you are spend very much time in Desktop so this proggram will hepl you!
-'''
--[x] set time in minute
--[ ] set your favourite youtube video url
--[ ] set how many time to repeat video to play video in browser automatically once you execute program
-'''
+
+- set time in minute
+- set your favourite youtube video url
+- set how many time to repeat video to play video in browser automatically once you execute program
+
 
 # Turtle 
 **output**
